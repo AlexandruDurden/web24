@@ -169,7 +169,7 @@ a {
     color: white;
 }
 .text-red {
-    color: red;
+    color: rgb(4, 0, 255);
     font-size: 30px;
     background-color: cyan;
 }
@@ -203,12 +203,12 @@ h1 {
     }
 }
 .etiqueta {
-    color: red;
+    color: rgb(255, 238, 0);
     font-size: 28px;
     font-weight: bold;
 }
 .atributo {
-    color: green;
+    color: rgb(0, 107, 128);
     font-size: 28px;
     font-weight: bold;
 }
@@ -260,11 +260,38 @@ h1 {
     background-color:rgb(58, 212, 235);
   }
 .horario {
-    width: 80%;
+    width: 50%;
     margin: 0 auto;
 }
-.bd {
-    background-color: #e4b416;
+.BBDD {
+    background-color: #65aa97 ;
+}
+.ende {
+    background-color: #97dd8e;
+}
+.dasp {
+    background-color: #ffa261;
+}
+.prog {
+    background-color: #d2d36d;
+}
+.ipe{
+    background-color: #eff0c5;
+}
+.sasp{
+    background-color: #d1d3fb;
+}
+.lmsg{
+    background-color: #64b4ef;
+}
+.ipcg{
+    background-color: #01df00;
+}
+.pimd{
+    background-color: #be7777;
+}
+.sisi{
+    background-color: #0080ff;
 }
 .w80 {
     width: 80%;
