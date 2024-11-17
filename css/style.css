@@ -1,4 +1,4 @@
-body {background-color: rgba(203, 13, 13, 0.604);
+body {background-color: rgba(255, 255, 255, 0.604);
     margin: 0;
 }
 
@@ -203,7 +203,7 @@ h1 {
     }
 }
 .etiqueta {
-    color: rgb(255, 238, 0);
+    color: rgb(26, 255, 0);
     font-size: 28px;
     font-weight: bold;
 }
@@ -236,7 +236,7 @@ h1 {
     list-style-type: decimal;
 }
 #listas .logo li li {
-    list-style-image: url("/img/LogoAnuelSinFondo.png");
+    list-style-image: url("img/LogoAnuelSinFondo.png");
 }
 #listas .logo li li li{
     list-style-image: none;
